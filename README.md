@@ -2,7 +2,7 @@
 ### Proucurando estágio na programação.
 ### Cursando Analise e esenvolvimento de Sistemas.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=#00CED1&height=300&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vitor+Hugo;Idade+41+anos;+Cursando+Analista+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -15,13 +15,11 @@
  
  ### Competência:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+PYTHON
 
 
 ### Estudando:
-![Python](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+PYTHON , C, Javascript
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -30,4 +28,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00CED1&height=120&section=footer"/>
