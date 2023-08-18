@@ -1,6 +1,6 @@
 ### Olá, sou Vitor Hugo! 👋
 ### Proucurando estágio na programação.
-### Cursando Analise e esenvolvimento de Sistemas.
+### Cursando Analise e Desenvolvimento de Sistemas.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=#00CED1&height=300&section=header"/>
 
