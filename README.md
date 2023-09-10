@@ -44,7 +44,7 @@
 
 
 ### Estudando:
-PYTHON , C, Javascript, HTML,CSS
+PYTHON , C#, Javascript, HTML,CSS e Banco de Dados
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
