@@ -30,9 +30,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=#00CED1&height=300&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vitor+Hugo;Idade+41+anos;+Cursando+Analista+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
-
 
 <div align="center"> 
 <a href = "mailto:cmp.1a.vitorhugols82@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
