@@ -1,6 +1,12 @@
 <h1>Hi There! 👋</h1>
-
-
+<p>Para o desenvolvimento dos meus projetos utilizo as seguintes tecnologias:</p>
+<div style="display: inline_block">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30px" width="30px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30px" width="30px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30px" width="30px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30px" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30px" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30px" width="30px">
 
 
 
